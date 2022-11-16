@@ -1,0 +1,25 @@
+html {
+    background-color: blue;
+}
+
+div {
+    font-size: 50px;
+    text-align: center;
+    margin-top: 100px;
+}
+
+#first {
+    background-color: tomato;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+#second {
+    background-color: aqua;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+.start {
+    font-size: 20px;
+}
